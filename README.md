@@ -13,6 +13,7 @@ Exploit PoCs, audit methodology, and the bugs your auditor missed.
 | [001](exploits/001-stale-oracle/) | Stale Oracle Price | Oracle |
 | [002](exploits/002-total-vs-available/) | Total vs Available Balance | Accounting |
 | [003](exploits/003-same-asset-liquidation/) | Same-Asset Liquidation Blocked | Lending |
+| [004](exploits/004-aggregate-vs-user-accounting/) | Global Counter vs User State Mismatch | Accounting |
 
 **[`methodology/`](methodology/)** — How I actually audit. Not a textbook process — a workflow that came from screwing up and learning what matters.
 
