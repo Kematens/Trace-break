@@ -1,0 +1,23 @@
+# Compiler files
+cache/
+out/
+artifacts/
+
+# Environment
+.env
+
+# Dependencies
+node_modules/
+lib/
+
+# Coverage
+lcov.info
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
