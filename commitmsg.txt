@@ -1,1 +1,0 @@
-init: stale oracle exploit PoC, audit methodology, and checklist
