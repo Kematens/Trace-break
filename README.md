@@ -23,6 +23,7 @@ Exploit PoCs, audit methodology, and the bugs your auditor missed.
 | Checklist | |
 |-----------|---|
 | [Oracle Integration](checklists/oracle-integration.md) | Chainlink, TWAP, custom oracles |
+| [Accounting Invariants](checklists/accounting-invariants.md) | Global vs user state, balance fields, mode-dependent semantics |
 
 ## Run a PoC
 
