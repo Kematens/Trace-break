@@ -1,3 +1,6 @@
 [submodule "exploits/001-stale-oracle/lib/forge-std"]
 	path = exploits/001-stale-oracle/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "exploits/002-total-vs-available/lib/forge-std"]
+	path = exploits/002-total-vs-available/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
